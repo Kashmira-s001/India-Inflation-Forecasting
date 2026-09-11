@@ -1,0 +1,2 @@
+forecast_generated,data_through,forecast_date,predicted_inflation,model,inflation_shock,wpi_shock,brent_oil_shock,usd_inr_shock,overall_shock
+2026-09-10,2026-07-01,2026-08-01,4.383667404158437,Linear Regression,False,False,False,False,False

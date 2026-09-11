@@ -1,0 +1,904 @@
+base_year,series,year,month,state,sector,division,group,class,sub_class,item,code,index,inflation,imputation,month_number,date
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,102.22,-1.02,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,106.34,-1.28,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,101.18,2.64,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,111.45,5.81,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,105.28,-2.03,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,104.61,0.24,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,102.79,0.88,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,112.04,4.61,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,97.91,-2.84,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.18,2.47,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.0,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,2.78,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,106.67,-0.12,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,107.8,0.28,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,109.82,0.0,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,102.02,0.88,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,102.72,1.34,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,104.96,2.76,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,106.83,3.39,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,102.57,1.18,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,105.43,1.53,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,105.06,1.99,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,104.3,2.62,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,104.66,2.57,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,107.47,1.53,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,106.58,2.37,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,109.94,10.41,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,107.16,5.1,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,109.72,7.04,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,107.02,2.63,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,115.17,10.55,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,109.84,6.74,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,104.4,2.89,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,102.52,1.81,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,102.6,1.5,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,100.41,-0.23,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,103.59,2.29,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,102.6,2.1,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,101.7,1.12,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,103.53,2.08,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,107.06,3.97,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,107.2,4.76,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,114.05,6.77,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,102.79,1.75,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,122.19,4.57,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,123.93,9.28,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,96.7,-3.16,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,185.49,40.44,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,109.05,0.76,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,10.65,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,104.63,2.92,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,102.51,0.29,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,120.51,5.02,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,97.61,-1.24,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,120.45,11.94,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,111.87,7.99,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,153.7,23.33,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,100.42,-0.14,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,109.16,12.87,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,104.02,-0.45,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,111.75,7.41,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,106.44,7.81,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,83.28,-9.22,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,94.93,-0.85,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,84.59,-12.67,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,112.62,3.16,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,109.33,4.98,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,120.29,11.61,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,149.6,17.9,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,142.48,20.02,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,134.86,3.98,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,95.0,0.29,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,112.59,1.94,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,108.95,5.38,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,129.3,24.87,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,170.67,47.17,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,107.84,2.26,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,102.63,1.97,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,115.67,3.73,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,112.68,7.04,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,92.12,37.83,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,88.33,11.21,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,94.52,9.36,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,112.6,64.58,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,141.58,13.99,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,106.85,25.11,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,101.98,16.9,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,107.28,8.28,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,127.64,12.53,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,98.1,2.62,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,72.1,-15.56,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,72.79,-29.3,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,56.79,-53.03,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,88.6,-6.2,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,86.19,12.42,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,118.86,2.92,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,107.32,3.15,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,67.99,-28.98,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,74.06,-24.9,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,96.31,-2.89,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,91.69,-8.32,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,102.0,0.94,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,98.14,-9.66,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,98.51,-8.66,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,97.67,-8.26,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,98.89,-4.09,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,102.0,2.0,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.52,-4.21,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,103.45,1.78,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,99.58,-2.1,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,105.32,3.02,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,102.87,1.52,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,102.11,0.16,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,106.19,3.6,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.61,1.16,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,95.97,-2.53,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,84.15,-10.78,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,106.34,3.33,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,65.99,-0.25,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,109.36,1.81,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,103.28,1.71,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,110.78,5.74,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,121.98,18.94,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,106.93,3.81,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.19,9.46,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,105.27,2.58,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,105.23,2.8,N,1,2026-01-01
+2024,Current,2026,January,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,102.75,1.38,N,1,2026-01-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,102.43,-1.07,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,105.85,-2.74,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,102.23,4.33,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,111.99,5.97,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,104.96,-2.47,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,103.53,-1.03,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,104.5,3.26,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,114.69,6.88,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,97.64,-2.6,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.38,2.44,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.45,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,0.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,106.61,-1.09,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,107.81,-0.55,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,110.92,1.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,101.95,0.65,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,102.68,0.94,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,105.09,2.59,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,106.87,2.84,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,102.76,1.15,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,105.36,1.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,104.21,1.33,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,104.2,1.9,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,104.79,2.44,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,107.56,0.91,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,106.67,2.16,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,107.75,12.22,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,107.75,5.45,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,111.07,7.8,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,106.78,2.39,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,115.99,10.59,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,110.62,6.97,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,104.54,2.94,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,102.59,1.72,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,102.58,1.38,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,100.24,-0.53,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,103.74,2.25,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,102.58,1.93,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,101.71,0.99,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,103.64,2.14,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,107.32,4.02,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,107.38,4.49,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,108.31,6.74,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,102.85,1.56,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,124.82,6.39,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,124.17,9.99,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,99.26,1.06,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,176.58,30.56,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,109.86,1.84,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,4.17,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,104.77,2.67,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,102.11,-0.32,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,120.37,3.08,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,102.75,-0.08,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,137.54,7.27,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,113.53,7.4,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,153.31,17.9,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,102.38,-1.08,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,115.67,11.43,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,107.01,0.73,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,111.01,6.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,109.88,8.07,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,92.84,-2.64,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,104.75,1.74,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,94.87,-11.52,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,115.8,6.13,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,109.78,4.98,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,115.36,14.02,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,143.89,27.28,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,137.68,20.98,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,133.91,6.33,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,99.91,4.78,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,114.61,2.77,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,109.75,5.74,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,130.69,25.35,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,171.15,46.16,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,107.99,2.17,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,108.51,9.04,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,115.8,3.24,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,112.93,6.37,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,82.9,43.76,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,82.73,24.48,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,91.23,11.68,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,79.36,45.18,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,143.76,11.65,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,97.73,28.02,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,113.47,34.72,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,108.93,14.92,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,141.65,16.8,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,96.62,9.13,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,61.21,0.05,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,69.18,-28.2,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,60.66,-31.1,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,81.59,1.14,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,84.39,18.4,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,114.35,13.9,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,106.96,7.4,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,62.24,-18.47,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,77.12,-16.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,97.12,-1.31,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,93.37,-4.97,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,102.42,2.15,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,98.43,-6.96,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,98.62,-6.8,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,96.68,-8.26,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,98.45,-3.85,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,102.0,2.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.28,-3.55,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,103.45,1.35,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,99.31,-2.24,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,105.58,2.83,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,102.75,1.26,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,101.71,-0.57,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,106.22,2.88,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.5,0.84,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,98.48,1.28,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,84.53,-8.68,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,107.48,4.42,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,67.02,10.43,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,110.04,2.41,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,103.49,1.73,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,111.1,5.8,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,123.34,19.54,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,107.85,4.57,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.08,9.16,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,105.71,2.87,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,105.37,2.55,N,2,2026-02-01
+2024,Current,2026,February,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,103.0,1.45,N,2,2026-02-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,102.77,-0.81,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,105.1,-3.2,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,102.77,5.93,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,112.43,5.87,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,103.76,-3.61,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,103.01,-1.5,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,105.67,4.79,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,115.33,7.79,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,98.06,-1.63,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.57,2.26,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.45,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,0.0,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,106.49,-1.66,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,107.7,-1.44,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,110.92,1.0,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,101.87,0.33,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,102.84,0.85,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,105.23,2.41,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,107.0,2.51,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,102.65,0.86,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,105.62,1.06,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,104.31,1.16,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,104.35,1.64,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,104.94,2.43,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,107.61,0.3,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,106.83,2.0,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,110.85,16.65,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,108.75,5.75,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,112.12,7.66,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,107.48,2.85,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,116.65,10.39,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,111.49,7.29,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,104.68,2.91,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,102.53,1.65,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,102.84,1.38,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,100.16,-0.68,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,104.08,2.43,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,102.67,1.93,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,101.92,0.85,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,104.12,2.47,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,107.81,4.12,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,107.7,4.4,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,102.38,5.52,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,103.21,1.59,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,127.97,7.62,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,124.38,10.08,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,101.48,3.72,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,168.13,22.76,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,111.31,2.82,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,4.17,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,105.14,2.93,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,102.07,-0.55,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,120.94,1.89,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,105.57,-1.19,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,151.69,1.5,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,116.61,6.56,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,150.02,14.27,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,104.53,-3.81,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,120.13,6.37,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,110.91,2.3,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,110.49,4.66,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,114.58,6.16,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,115.31,0.19,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,114.19,2.06,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,104.69,-13.33,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,122.26,4.91,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,110.89,5.59,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,113.92,6.62,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,135.9,25.16,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,121.64,23.15,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,122.67,-0.36,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,100.99,5.93,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,116.03,1.36,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,110.7,6.09,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,131.51,25.28,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,172.26,45.54,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,108.67,2.02,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,111.25,12.3,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,116.2,3.11,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,113.34,6.1,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,83.6,34.16,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,80.65,25.43,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,95.08,10.83,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,66.39,36.0,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,133.55,11.53,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,95.57,24.23,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,115.07,32.79,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,108.14,19.55,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,130.76,14.21,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,97.05,9.16,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,67.03,-6.01,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,64.42,-27.78,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,58.62,-10.17,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,83.69,6.04,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,90.68,16.95,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,114.4,18.43,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,105.01,7.23,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,58.88,-19.03,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,78.77,-9.54,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,97.74,-0.17,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,94.44,-2.4,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,102.74,3.16,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,98.55,-4.33,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,98.72,-4.52,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,95.41,-7.88,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,98.38,-3.56,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,102.0,2.0,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.34,-2.61,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,103.47,1.02,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,99.3,-1.94,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,105.87,2.9,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,102.91,1.22,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,101.57,-0.99,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,106.33,2.32,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.52,0.63,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,100.65,4.65,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,84.77,-6.52,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,108.34,5.38,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,67.33,12.91,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,110.48,2.7,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,103.72,1.95,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,111.52,5.53,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,124.1,19.11,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,108.15,4.75,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.22,9.22,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,105.84,2.81,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,105.54,2.33,N,3,2026-03-01
+2024,Current,2026,March,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,103.14,1.25,N,3,2026-03-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,103.15,-0.54,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,103.74,-1.78,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,104.38,8.44,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,112.99,5.8,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,103.12,-3.15,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,103.06,-1.85,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,107.49,6.06,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,114.91,6.91,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,98.92,-0.62,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.57,2.52,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.39,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,0.0,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,105.93,-1.03,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,107.2,-1.61,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,110.92,1.0,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,101.89,-0.12,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,102.97,0.89,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,105.53,2.36,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,107.14,2.2,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,102.83,0.85,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,105.62,1.02,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,104.52,1.26,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,104.51,1.44,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,105.08,2.53,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,107.59,0.12,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,106.94,1.73,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,109.96,12.45,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,109.74,6.21,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,113.97,7.96,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,107.5,2.57,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,117.09,9.9,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,113.56,8.57,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,104.99,2.88,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,102.53,1.45,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,103.25,1.54,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,100.4,-0.67,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,104.36,1.98,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,102.61,1.68,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,102.27,0.89,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,106.25,4.3,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,108.52,4.55,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,110.21,6.24,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,99.97,5.32,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,103.53,1.75,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,132.12,10.25,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,125.52,11.29,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,104.26,7.34,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,164.17,15.63,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,112.77,3.7,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,3.54,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,105.72,3.1,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,102.3,-0.5,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,123.39,2.4,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,104.55,-2.3,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,141.64,12.61,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,120.33,6.27,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,148.52,11.58,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,103.32,-1.85,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,124.71,6.83,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,109.02,0.94,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,110.22,3.85,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,123.42,7.52,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,136.04,6.08,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,122.6,0.87,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,110.78,-15.47,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,129.96,11.42,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,111.6,5.42,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,115.97,9.61,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,132.2,22.09,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,98.03,14.21,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,99.54,-0.41,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,98.48,-5.03,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,117.47,4.83,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,111.31,6.57,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,132.27,23.96,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,175.97,44.59,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,108.39,1.39,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,112.68,14.03,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,116.35,2.82,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,114.01,5.93,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,96.29,25.58,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,83.86,22.16,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,100.83,9.79,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,69.32,35.26,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,109.76,6.94,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,98.92,21.09,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,105.37,22.72,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,101.1,16.85,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,112.62,11.07,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,97.82,6.62,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,89.96,-6.54,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,61.32,-17.67,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,57.06,-0.13,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,89.21,4.82,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,101.9,10.9,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,102.82,7.95,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,100.34,4.58,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,56.68,-23.66,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,79.44,-4.86,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,98.03,0.47,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,95.36,-0.41,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,102.73,3.94,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,97.97,-2.86,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,97.92,-3.35,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,94.46,-6.73,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,98.89,-2.32,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,102.0,3.67,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.35,-1.65,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,103.49,0.83,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,99.51,-1.58,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,107.27,3.91,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,103.11,1.18,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,101.39,-1.43,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,106.36,1.79,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.49,0.46,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,103.0,8.48,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,84.9,-5.03,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,110.02,6.94,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,67.7,14.36,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,111.06,3.27,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,104.11,2.25,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,111.99,4.88,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,123.56,16.68,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,108.19,4.77,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.1,8.78,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,106.03,2.6,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,105.86,2.28,N,4,2026-04-01
+2024,Current,2026,April,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,103.18,0.96,N,4,2026-04-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,103.7,0.23,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,103.44,-0.86,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,104.53,8.97,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,113.63,6.33,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,103.37,-2.69,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,102.17,-2.65,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,108.63,7.02,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,115.87,7.84,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,99.4,0.13,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.69,2.37,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.39,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,0.0,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,105.66,-0.46,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,106.91,-0.73,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,110.92,1.0,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,102.04,-0.51,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,103.01,0.79,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,105.96,2.43,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,107.65,2.4,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,102.83,0.61,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,105.55,1.03,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,104.94,0.86,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,104.8,1.42,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,105.31,2.61,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,107.75,0.78,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,107.09,1.51,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,111.33,10.96,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,110.61,6.65,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,115.71,9.79,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,107.28,1.98,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,118.67,9.12,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,114.54,7.53,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,105.85,2.87,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,102.65,1.48,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,104.03,1.97,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,100.69,-0.53,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,105.01,2.29,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,103.11,1.7,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,102.74,1.06,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,107.91,5.77,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,109.48,5.16,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,112.05,7.39,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,102.57,5.46,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,103.89,1.87,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,133.99,11.32,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,126.26,11.47,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,105.62,10.15,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,159.22,2.96,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,113.93,4.84,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,3.54,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,106.27,3.1,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,102.88,-0.38,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,124.03,2.09,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,107.6,0.4,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,108.52,10.37,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,125.5,8.41,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,146.47,9.1,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,104.11,2.52,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,127.83,3.85,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,105.32,1.07,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,110.56,3.31,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,133.29,10.64,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,136.07,12.93,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,129.77,0.05,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,125.23,10.9,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,135.62,9.37,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,112.37,5.51,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,121.16,3.89,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,139.47,19.56,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,88.61,16.57,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,88.27,3.77,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,95.3,-4.67,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,121.44,10.73,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,112.05,7.06,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,132.9,21.98,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,179.7,44.36,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,108.39,1.83,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,112.51,14.02,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,116.6,2.48,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,114.56,5.82,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,107.44,8.31,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,92.73,19.21,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,107.37,10.59,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,87.07,48.43,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,90.76,7.76,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,101.61,17.47,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,101.73,21.43,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,95.85,13.79,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,97.59,14.33,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,102.82,6.85,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,101.38,-11.47,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,62.61,-2.25,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,59.75,9.63,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,98.13,5.02,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,113.03,6.3,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,109.81,10.66,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,98.06,3.67,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,59.23,-23.71,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,79.48,-1.77,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,98.37,1.15,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,95.76,0.89,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,103.2,4.67,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,97.73,-2.1,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,97.41,-2.54,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,93.4,-6.67,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,99.07,-1.45,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,107.26,9.02,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.36,-1.01,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,103.6,0.74,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,99.58,-1.4,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,108.91,5.18,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,103.36,1.06,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,101.33,-1.86,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,106.56,1.7,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.44,0.04,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,105.28,11.87,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,84.98,-4.59,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,112.2,8.8,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,77.86,32.5,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,111.98,3.75,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,104.42,2.25,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,112.31,4.33,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,122.92,13.69,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,108.43,4.9,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.32,8.61,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,106.48,2.69,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,106.36,2.5,N,5,2026-05-01
+2024,Current,2026,May,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,103.17,0.75,N,5,2026-05-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,104.84,1.72,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,103.59,-0.47,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,105.89,9.73,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,114.53,6.67,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,103.88,-2.21,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,102.12,-2.89,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,112.93,11.93,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,116.1,8.24,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,100.36,1.29,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.7,2.21,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.39,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,0.0,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,105.85,0.16,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,107.3,0.3,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,110.92,1.0,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,102.02,-0.88,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,103.22,0.85,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,106.44,2.56,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,108.31,2.72,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,103.13,0.65,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,105.97,1.19,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,105.01,0.53,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,105.25,1.59,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,105.59,2.47,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,107.83,1.17,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,107.77,1.93,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,110.99,10.83,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,111.53,7.26,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,119.71,12.35,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,106.61,1.2,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,119.63,8.55,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,117.85,7.69,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,107.06,3.63,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,103.05,1.6,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,105.29,3.03,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,101.1,-0.39,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,106.3,3.19,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,104.0,1.73,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,103.28,1.48,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,109.06,6.75,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,110.34,5.76,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,113.02,7.88,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,106.38,6.46,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,104.41,2.11,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,135.12,12.56,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,127.87,11.86,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,106.38,11.56,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,154.42,-11.12,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,115.37,7.11,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,3.54,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,106.81,3.14,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,103.67,-0.08,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,125.21,2.59,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,111.33,3.4,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,87.01,11.2,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,127.61,8.9,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,142.89,3.45,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,106.59,5.02,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,130.56,10.3,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,109.7,5.61,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,110.55,1.9,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,142.69,12.96,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,117.77,17.28,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,136.89,0.26,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,132.31,9.91,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,139.23,11.37,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,112.7,5.43,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,132.15,16.1,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,147.83,18.19,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,93.26,16.81,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,89.28,6.3,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,103.39,-0.89,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,125.66,13.25,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,113.06,7.2,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,133.78,20.56,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,181.6,39.46,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,108.3,1.05,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,113.06,14.08,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,117.23,2.58,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,115.39,5.85,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,123.43,2.5,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,103.36,15.22,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,114.5,7.54,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,109.74,31.92,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,88.68,5.54,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,106.42,9.29,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,101.48,17.99,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,97.32,12.09,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,90.77,11.78,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,107.71,6.59,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,112.61,-9.67,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,68.25,4.73,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,64.74,17.93,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,109.63,5.26,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,126.02,3.88,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,112.46,12.49,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,99.68,3.09,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,64.2,-20.34,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,79.72,0.85,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,98.64,1.71,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,96.05,2.15,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,103.83,5.44,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,98.21,-0.69,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,98.19,-0.74,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,92.84,-6.81,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,99.39,-0.53,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,107.26,9.02,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.69,-0.28,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,103.82,0.71,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,100.06,-0.86,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,110.1,6.02,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,103.61,1.0,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,101.49,-1.96,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,106.81,1.61,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.58,-0.04,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,107.15,14.48,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,85.23,-3.76,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,114.63,10.74,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,89.59,50.41,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,112.74,4.02,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,104.99,2.63,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,112.84,4.08,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,122.82,11.03,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,109.33,5.42,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.69,6.09,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,106.8,2.79,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,106.94,2.69,N,6,2026-06-01
+2024,Current,2026,June,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,103.32,0.63,N,6,2026-06-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice,01.1.1.1.1.01,106.1,3.3,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat,01.1.1.1.1.02,104.36,0.26,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Jowar and its products,01.1.1.1.1.03,107.19,11.02,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Ragi and its products,01.1.1.1.1.04,115.4,6.37,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Bajra and its products,01.1.1.1.1.05,105.54,-0.62,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Maize and its products,01.1.1.1.1.06,104.03,-0.84,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Small millets and its products,01.1.1.1.1.07,122.78,21.11,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Barley and its products,01.1.1.1.1.08,118.4,9.54,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other cereals and products,01.1.1.1.1.09,101.79,2.97,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Other wheat products,01.1.1.1.1.10,108.97,1.88,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Rice PDS,01.1.1.1.1.11,106.52,0.39,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Cereals,Wheat PDS,01.1.1.1.1.12,102.78,0.0,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta,01.1.1.2.1.01,106.31,0.8,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Maida,01.1.1.2.1.02,107.59,0.59,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Flour of cereals,Wheat atta PDS,01.1.1.2.1.03,110.92,1.0,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Biscuits,01.1.1.3.1.01,102.1,-1.29,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Chips , nachos, puffs, wafers, etc.",01.1.1.3.1.02,103.57,0.89,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,"Cake, pastry",01.1.1.3.1.03,107.01,2.85,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Bread and bakery products,Bread (bakery),01.1.1.3.1.04,108.88,2.99,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Breakfast cereals,01.1.1.4.1.01,103.48,0.75,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Muri,01.1.1.4.1.02,106.21,1.12,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Breakfast cereals,Other rice products,01.1.1.4.1.03,105.2,-0.17,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Noodles,01.1.1.5.1.01,105.51,1.63,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,"Macaroni, noodles, couscous and similar pasta products",Vermicelli (sewai),01.1.1.5.1.02,105.87,2.43,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,"Suji, rawa",01.1.1.9.1.01,108.07,1.49,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Cereals and cereal products,Other milled cereal and grain products,Chidwa,01.1.1.9.1.02,108.41,2.0,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Chicken,01.1.2.2.1.01,115.19,19.56,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Goat meat/ mutton,01.1.2.2.1.02,112.19,8.15,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Beef/ buffalo meat,01.1.2.2.1.03,120.44,13.18,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen",Pork,01.1.2.2.1.04,106.62,1.07,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Meat, fresh, chilled or frozen","Meat, fresh, chilled or frozen","Others: birds, crab,oyster, etc.",01.1.2.2.1.05,121.06,9.79,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fish and other seafood,Fish and prawn,Fish and prawn,01.1.3.1.1.01,118.49,7.86,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: liquid,Milk: liquid,01.1.4.1.1.01,107.53,3.85,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk: condensed/ powder,Milk: condensed/ powder,01.1.4.3.1.01,103.46,1.68,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Paneer,01.1.4.5.1.01,106.08,3.76,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Cheese,Cheese,01.1.4.5.1.02,101.18,-0.49,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products","Curd, yogurt",01.1.4.6.1.01,106.91,3.56,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Butter milk,01.1.4.6.1.02,104.4,1.89,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs","Curd, Yoghurt and similar products",Lassi,01.1.4.6.1.03,103.46,1.47,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Tea: cups,01.1.4.7.1.01,110.04,7.47,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Prepared sweets- milk based,01.1.4.7.1.02,111.1,6.21,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Milk-based dessert and beverages,Coffee: cups,01.1.4.7.1.03,114.32,8.74,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Eggs,Eggs,01.1.4.8.1.01,114.2,12.49,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Milk, other dairy products and eggs",Other dairy products,Other milk products,01.1.4.9.1.01,104.93,2.45,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Refined oil,01.1.5.1.1.01,135.83,13.35,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Mustard oil,01.1.5.1.1.02,129.29,9.27,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Groundnut oil,01.1.5.1.1.03,106.59,11.75,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Coconut oil,01.1.5.1.1.04,149.3,-24.76,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil,01.1.5.1.1.05,115.99,7.84,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Vegetable oils,Edible oil PDS,01.1.5.1.1.06,113.6,3.54,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Ghee,01.1.5.2.1.01,107.42,3.27,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Butter and other oils and fats derived from milk,Butter,01.1.5.2.1.02,104.63,0.23,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Oils and fats,Margarine and similar preparations,Vanaspati and margarine,01.1.5.3.1.01,125.21,2.62,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Banana,01.1.6.1.1.01,113.8,4.93,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Mango,01.1.6.1.1.02,88.57,14.42,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Green coconut,01.1.6.1.1.03,127.27,7.9,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Coconut,01.1.6.1.1.04,140.82,-3.04,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Papaya,01.1.6.1.1.05,111.76,7.24,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Guava,01.1.6.1.1.06,122.24,8.26,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Pineapple,01.1.6.1.1.07,105.66,3.01,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Dates, figs and tropical fruits, fresh",Fig: anjeer,01.1.6.1.1.08,110.62,0.58,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Orange and sweet lime (mausami),01.1.6.2.1.01,144.96,12.74,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Citrus fruits, fresh",Lemon,01.1.6.2.1.02,101.17,14.34,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apple,01.1.6.3.1.01,144.68,3.6,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Litchi,01.1.6.3.1.02,132.08,7.72,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Pears/ nashpati,01.1.6.3.1.03,121.86,16.8,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Stone fruits and pome fruits, fresh",Apricot,01.1.6.3.1.04,113.76,5.77,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Berries, fresh",Berries,01.1.6.4.1.01,127.08,15.9,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Grapes,01.1.6.5.1.01,155.93,17.08,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Watermelon,01.1.6.5.1.02,109.47,12.02,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Kharbooza,01.1.6.5.1.03,101.09,10.32,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Singara,01.1.6.5.1.04,113.3,-5.73,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Other fruits, fresh",Other fresh fruits,01.1.6.5.1.05,127.19,11.66,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Dates,01.1.6.7.1.01,113.9,7.06,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Raisin (kishmish) and monacca,01.1.6.7.1.02,134.18,15.71,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Coconut: copra,01.1.6.7.1.03,182.82,25.88,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Fruits, dried and dehydrated",Other dry fruits,01.1.6.7.1.04,108.65,0.54,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Groundnut,01.1.6.8.1.01,113.94,14.69,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Cashew nut,01.1.6.8.1.02,117.64,2.44,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Fruits and nuts,"Nuts, in shell or shelled",Other nuts,01.1.6.8.1.03,116.25,5.8,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cauliflower,01.1.7.1.1.01,145.56,-3.01,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Cabbage,01.1.7.1.1.02,112.66,6.99,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Leafy or stem vegetables, fresh or chilled",Palak and other leafy vegetables,01.1.7.1.1.03,123.57,6.81,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Tomato,01.1.7.2.1.01,105.87,-4.59,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Lady's finger,01.1.7.2.1.02,90.65,-5.52,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Brinjal,01.1.7.2.1.03,110.61,-4.18,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Green chillies,01.1.7.2.1.04,104.79,-2.94,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled","Gourd, pumpkin",01.1.7.2.1.05,102.24,4.39,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Fruit-bearing vegetables, fresh or chilled",Parwal/patal and Kundru,01.1.7.2.1.06,91.45,-0.79,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Beans and Barbati,01.1.7.3.1.01,110.2,0.85,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Green leguminous vegetables, fresh or chilled",Peas,01.1.7.3.1.02,131.92,-5.27,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Onion,01.1.7.4.1.01,85.97,22.54,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Garlic,01.1.7.4.1.02,73.83,35.36,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Carrot,01.1.7.4.1.03,116.86,1.96,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Radish,01.1.7.4.1.04,136.81,3.49,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Jackfruit,01.1.7.4.1.05,105.18,12.1,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Other vegetables, fresh or chilled",Other vegetables,01.1.7.4.1.06,103.26,-0.15,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Tubers, plantains and cooking bananas, fresh or chilled",Potato,01.1.7.5.1.01,69.23,-16.56,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Arhar, tur",01.1.7.6.1.01,79.9,3.33,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Moong,01.1.7.6.1.02,98.78,2.36,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Urd,01.1.7.6.1.03,97.46,4.42,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Masur,01.1.7.6.1.04,104.17,5.45,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: split,01.1.7.6.1.05,98.58,0.01,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Gram: whole,01.1.7.6.1.06,98.67,0.19,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,"Peas, chickpeas",01.1.7.6.1.07,92.2,-6.62,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Other pulses,01.1.7.6.1.08,99.77,-0.31,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses",Pulses,Pulses PDS,01.1.7.6.1.09,107.26,9.02,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Besan and Gram products,01.1.7.9.1.01,102.83,0.05,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Pickles,01.1.7.9.1.02,104.08,0.62,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,"Vegetables, tubers, plantains, cooking bananas and pulses","Vegetables, tubers, plantains, cooking bananas and pulses ground, and in other preparations",Other pulse products,01.1.7.9.1.03,100.54,-0.25,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other served processed food,01.1.9.1.1.01,110.79,6.44,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Ready-made food,Other packaged processed food,01.1.9.1.1.02,103.67,0.87,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Baby food,Baby food,01.1.9.2.1.01,101.55,-2.13,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt,01.1.9.3.1.01,107.57,2.03,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Sauce and Mayonnaise,01.1.9.3.1.02,102.81,0.01,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Salt, condiments and sauces",Salt PDS,01.1.9.3.1.03,102.62,0.0,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Dry chillies,01.1.9.4.1.01,109.12,16.43,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Cumin (jeera),01.1.9.4.1.02,85.12,-3.23,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Coriander (dhania),01.1.9.4.1.03,117.89,13.54,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Ginger,01.1.9.4.1.04,112.53,83.62,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Turmeric,01.1.9.4.1.05,113.46,4.35,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Curry powder,01.1.9.4.1.06,105.48,2.64,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Black pepper,01.1.9.4.1.07,113.17,3.92,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Tamarind,01.1.9.4.1.08,123.23,8.94,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Oilseeds,01.1.9.4.1.09,110.23,5.76,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Poppy seeds,01.1.9.4.1.10,110.74,3.96,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,"Spices, culinary herbs and seeds",Other spices,01.1.9.4.1.11,107.46,3.04,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,"Papad, bhujia, namkeen, mixture and chanachur",01.1.9.9.1.01,107.32,2.8,N,7,2026-07-01
+2024,Current,2026,July,All India,Combined,Food and beverages,Food,Ready-made food and other food products,Other food products n.e.c.,Health supplements (probiotic tablet and drinks),01.1.9.9.1.02,103.37,0.39,N,7,2026-07-01
