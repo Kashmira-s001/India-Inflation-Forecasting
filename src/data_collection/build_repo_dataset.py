@@ -117,15 +117,25 @@ monthly = pd.merge_asof(
 
 
 # ============================================================
-# 8. EXTEND THROUGH JULY 2026
+# 8. CARRY FORWARD LAST KNOWN POLICY RATE
 # ============================================================
-# RBI's official current-rate information shows the
-# Policy Repo Rate at 5.25% during July 2026.
+# The RBI workbook currently ends with an explicit
+# repo-rate observation of 5.25%.
+#
+# Since the repo rate remains effective until RBI changes it,
+# carry the last known rate forward for later months.
+#
+# This is a carry-forward of the policy rate, not a new
+# monthly RBI observation.
+
+last_known_rate = repo.iloc[-1]["repo_rate"]
+
+monthly["repo_rate"] = monthly["repo_rate"].ffill()
 
 monthly.loc[
-    monthly["date"] >= pd.Timestamp("2026-01-01"),
+    monthly["repo_rate"].isna(),
     "repo_rate"
-] = 5.25
+] = last_known_rate
 
 
 # ============================================================

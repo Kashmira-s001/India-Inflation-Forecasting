@@ -1,2 +1,3 @@
-forecast_generated,data_through,forecast_date,predicted_inflation,model,inflation_shock,wpi_shock,brent_oil_shock,usd_inr_shock,overall_shock
-2026-09-10,2026-07-01,2026-08-01,4.383667404158437,Linear Regression,False,False,False,False,False
+forecast_generated,data_through,forecast_date,predicted_inflation,model,inflation_shock,wpi_shock,brent_oil_shock,usd_inr_shock,overall_shock,actual_inflation,error,absolute_error,squared_error,percentage_error,evaluated
+2026-09-10,2026-07-01,2026-08-01,4.383667404158437,Linear Regression,False,False,False,False,False,4.82,-0.4363325958415629,0.4363325958415629,0.1903861341938366,-9.052543482190105,True
+2026-09-26,2026-08-01,2026-09-01,4.86858939254435,Linear Regression,False,False,False,False,False,,,,,,

@@ -41,13 +41,47 @@ repo["date"] = pd.to_datetime(repo["date"])
 
 
 # ============================================================
-# SELECT CPI PERIOD
+# SELECT REQUIRED COLUMNS
 # ============================================================
 
 # CPI is our main target series.
-# We use the period covered by CPI.
+cpi = cpi[
+    [
+        "date",
+        "year",
+        "month",
+        "cpi_index",
+        "inflation"
+    ]
+].copy()
+
+
+# WPI variables required for inflation analysis.
+wpi = wpi[
+    [
+        "date",
+        "wpi_index",
+        "wpi_inflation"
+    ]
+].copy()
+
+
+# RBI policy variable.
+repo = repo[
+    [
+        "date",
+        "repo_rate"
+    ]
+].copy()
+
+
+# ============================================================
+# SORT
+# ============================================================
 
 cpi = cpi.sort_values("date").reset_index(drop=True)
+wpi = wpi.sort_values("date").reset_index(drop=True)
+repo = repo.sort_values("date").reset_index(drop=True)
 
 
 # ============================================================
@@ -79,7 +113,7 @@ economic = pd.merge(
 
 
 # ============================================================
-# SORT
+# SORT FINAL DATASET
 # ============================================================
 
 economic = (
