@@ -2,17 +2,17 @@
 
 A data-driven forecasting system for predicting **India's next-month CPI inflation** using historical inflation patterns and selected macroeconomic indicators.
 
-The project is designed as an **ongoing monthly forecasting pipeline** rather than a one-time machine learning experiment. As new economic data becomes available, the system can update the dataset, generate a new forecast, store the prediction, and later evaluate it against the actual inflation value.
+The project is designed as an **ongoing monthly forecasting pipeline**, not a one-time machine learning experiment. As new economic data becomes available, the system can update the economic dataset, retrain the model, generate a new forecast, store the prediction, and later evaluate it against the official actual inflation value.
 
 ---
 
 ## 📌 Overview
 
-Inflation is one of the most important indicators of economic conditions. It is influenced by domestic price movements as well as factors such as wholesale prices, monetary policy, crude oil prices, and exchange rates.
+Inflation is influenced by domestic price movements as well as broader economic conditions such as wholesale prices, monetary policy, crude oil prices, and exchange rates.
 
-This project explores whether these economic signals can be used to forecast India's **Consumer Price Index (CPI) inflation one month ahead**.
+This project explores whether these signals can help forecast India's **Consumer Price Index (CPI) inflation one month ahead**.
 
-The system combines:
+The system brings together:
 
 - Historical CPI inflation
 - WPI inflation
@@ -21,11 +21,12 @@ The system combines:
 - USD/INR exchange rate
 - Food & Beverages CPI data
 - Time-series feature engineering
-- Machine learning and statistical forecasting
+- Machine learning model evaluation
 - Economic shock detection
 - Forecast history and evaluation
+- Interactive Streamlit dashboard
 
-The goal is not simply to build the most complicated model, but to develop a **transparent, reproducible, and continuously updateable forecasting workflow**.
+The goal is to build a **transparent, reproducible, interpretable, and continuously updateable forecasting workflow**.
 
 ---
 
@@ -38,7 +39,7 @@ The primary forecasting objective is:
 For example:
 
 ```text
-July 2026 Economic Data
+August 2026 Economic Data
           │
           ▼
    Feature Engineering
@@ -47,368 +48,10 @@ July 2026 Economic Data
     Forecasting Model
           │
           ▼
-August 2026 CPI Inflation
-````
-
-As new monthly observations become available, the same process can be repeated for subsequent months.
-
----
-
-# 📊 Data
-
-The project works with monthly economic data covering approximately **2013 onwards**, with the final modelling dataset extending through the latest available month.
-
-The main indicators include:
-
-| Indicator             | Role in the Project                            |
-| --------------------- | ---------------------------------------------- |
-| CPI Inflation         | Primary forecasting target                     |
-| WPI Inflation         | Indicator of wholesale price pressure          |
-| Repo Rate             | Monetary policy indicator                      |
-| Brent Crude Oil       | Energy and global commodity price indicator    |
-| USD/INR Exchange Rate | Currency and imported-price pressure indicator |
-| Food & Beverages CPI  | Food-related price analysis                    |
-
-The project stores cleaned and processed datasets under:
-
-```text
-data/processed/
+September 2026 CPI Inflation
 ```
 
-Raw source files are intentionally excluded from the GitHub repository.
-
-Detailed information about the datasets and their sources is available in:
-
-```text
-data/metadata/data_sources.md
-```
-
----
-
-# 🏛️ Data Sources
-
-The project uses official and publicly available economic data sources.
-
-Major sources include:
-
-* Ministry of Statistics and Programme Implementation (MoSPI)
-* e-Sankhyiki
-* Reserve Bank of India (RBI)
-* Office of Economic Adviser / WPI data
-* World Bank Commodity Markets
-* Publicly available exchange-rate data
-
-The exact source, coverage, transformation, and usage of each dataset are documented in:
-
-```text
-data/metadata/data_sources.md
-```
-
----
-
-# 🧹 Data Processing Pipeline
-
-The project follows a structured data-processing workflow.
-
-```text
-Raw Economic Data
-       │
-       ▼
-Data Inspection
-       │
-       ▼
-Cleaning & Validation
-       │
-       ▼
-Monthly Alignment
-       │
-       ▼
-Individual Master Datasets
-       │
-       ▼
-Economic Master Dataset
-       │
-       ▼
-Feature Engineering
-       │
-       ▼
-Forecasting Dataset
-```
-
-Each major economic indicator is processed separately before being combined into the final modelling dataset.
-
----
-
-# 🧠 Feature Engineering
-
-The forecasting problem is formulated as a one-step-ahead time-series prediction problem.
-
-The target variable is created as:
-
-```text
-target_next_month_inflation
-```
-
-which represents the CPI inflation value in the following month.
-
-The final forecasting model uses four features:
-
-```text
-inflation
-inflation_lag_1
-inflation_lag_12
-wpi_inflation
-```
-
-### Feature descriptions
-
-| Feature            | Description                                        |
-| ------------------ | -------------------------------------------------- |
-| `inflation`        | Current CPI inflation                              |
-| `inflation_lag_1`  | CPI inflation from the previous month              |
-| `inflation_lag_12` | CPI inflation from the same month one year earlier |
-| `wpi_inflation`    | Current WPI inflation                              |
-
-The lag features allow the model to capture both **recent inflation momentum** and **year-over-year seasonal/historical patterns**.
-
----
-
-# 🤖 Models Evaluated
-
-Multiple forecasting approaches were evaluated during model development.
-
-### Machine Learning Models
-
-* Linear Regression
-* Ridge Regression
-* Random Forest
-* XGBoost
-
-### Statistical Time-Series Models
-
-* ARIMA
-* SARIMA
-
-### Baseline
-
-* Naive persistence forecast
-
-The naive baseline is important because inflation is a persistent time series. A machine learning model should therefore demonstrate value beyond simply assuming that the next month's inflation will remain close to the current value.
-
----
-
-# 📈 Model Selection
-
-The final model is:
-
-## Linear Regression
-
-using:
-
-```text
-inflation
-inflation_lag_1
-inflation_lag_12
-wpi_inflation
-```
-
-The final model was selected based primarily on **Mean Absolute Error (MAE)** during walk-forward validation, while the naive model is retained as a benchmark.
-
-The final model is intentionally simple because the dataset contains a relatively small number of monthly observations. More complex models such as Random Forest and XGBoost did not consistently improve forecasting performance.
-
----
-
-# 🧪 Model Validation
-
-Because this is a time-series problem, random train-test splitting was avoided.
-
-Instead, the project uses:
-
-### 1. Chronological Validation
-
-Historical observations are divided chronologically into training and testing periods.
-
-```text
-Past Data ───────────────► Future Data
-   Train                       Test
-```
-
-### 2. Walk-Forward Validation
-
-The model is repeatedly trained using information available up to a particular point and then used to forecast the next observation.
-
-```text
-Train
-  │
-  └──► Predict next month
-
-Train + New Observation
-  │
-  └──► Predict next month
-
-Train + More Observations
-  │
-  └──► Predict next month
-
-              ...
-```
-
-This better represents how the model would operate in a real forecasting environment.
-
----
-
-# 📊 Final Model Performance
-
-The final Linear Regression model achieved the following performance during walk-forward validation:
-
-| Metric |     Result |
-| ------ | ---------: |
-| MAE    | **0.6255** |
-| RMSE   | **0.8706** |
-| R²     | **0.7395** |
-
-### Interpretation
-
-The MAE of approximately **0.63 percentage points** means that, on average, the model's forecast differed from the actual inflation value by around 0.63 percentage points during the evaluated walk-forward period.
-
-The naive benchmark remains important because it performed slightly better on RMSE and R² in the same evaluation.
-
-Therefore, the project does **not** claim that the machine learning model universally outperforms the baseline.
-
-Instead, the final model was selected based on its MAE performance, simplicity, interpretability, and suitability for the project's ongoing forecasting workflow.
-
----
-
-# 🔮 Current Forecast
-
-Using economic information available through **July 2026**, the system generated:
-
-```text
-Forecast Month: August 2026
-Predicted CPI Inflation: 4.38%
-Model: Linear Regression
-```
-
-This value is a **model forecast**, not the actual August 2026 inflation observation.
-
-The actual value can be incorporated into the forecast history once the official August CPI data becomes available.
-
----
-
-# 🚨 Economic Shock Detection
-
-In addition to forecasting inflation, the project contains an economic monitoring component.
-
-The shock detection system looks for unusually large movements in:
-
-* CPI inflation
-* WPI inflation
-* Brent crude oil
-* USD/INR exchange rate
-
-Rolling statistics are used to calculate z-scores.
-
-A movement is flagged when:
-
-```text
-|z-score| ≥ 2
-```
-
-The system produces indicators such as:
-
-```text
-Inflation Shock
-WPI Shock
-Brent Shock
-USD/INR Shock
-Overall Shock
-```
-
-### Important distinction
-
-The shock detector is an **early-warning monitoring tool**.
-
-It does not claim to predict unexpected economic shocks before they occur.
-
-Its purpose is to identify unusually large movements in economic indicators that may deserve further investigation.
-
----
-
-# 🔄 Forecast History
-
-Every generated forecast can be stored in:
-
-```text
-data/processed/forecast_history.csv
-```
-
-The history records information such as:
-
-* Forecast generation date
-* Data available through
-* Forecast month
-* Predicted inflation
-* Model used
-* Shock indicators
-
-Once the actual inflation value becomes available, the prediction can be compared with the observed value.
-
-```text
-Forecast
-   │
-   ▼
-Store Prediction
-   │
-   ▼
-Wait for Official CPI
-   │
-   ▼
-Actual Inflation Available
-   │
-   ▼
-Calculate Forecast Error
-   │
-   ▼
-Update Performance History
-```
-
-This creates the foundation for long-term monitoring of model performance.
-
----
-
-# 🔁 Continuous Monthly Forecasting
-
-The long-term objective is to operate the project as an ongoing forecasting system.
-
-For each new month:
-
-```text
-New Official Data
-       │
-       ▼
-Update Dataset
-       │
-       ▼
-Validate Data
-       │
-       ▼
-Build Features
-       │
-       ▼
-Generate Forecast
-       │
-       ▼
-Run Shock Detection
-       │
-       ▼
-Store Forecast
-       │
-       ▼
-Wait for Actual CPI
-       │
-       ▼
-Evaluate Forecast
-```
+When the next month's official data becomes available, it becomes part of the historical dataset and can be used to generate the following month's forecast.
 
 For example:
 
@@ -428,7 +71,457 @@ Forecast October
         ...
 ```
 
-The project is therefore being developed as a **living forecasting pipeline** rather than a static model.
+An important design principle is that **actual observed inflation is used when it becomes available**. A previous forecast is not treated as the actual economic observation.
+
+---
+
+# 📊 Data
+
+The project works with monthly economic data beginning in **2013**, with the final modelling dataset extending through the latest available observations.
+
+The main indicators are:
+
+| Indicator | Role in the Project |
+|---|---|
+| CPI Inflation | Primary forecasting target |
+| WPI Inflation | Indicator of wholesale price pressure |
+| RBI Repo Rate | Monetary policy indicator |
+| Brent Crude Oil | Energy and global commodity price indicator |
+| USD/INR Exchange Rate | Currency and imported-price pressure indicator |
+| Food & Beverages CPI | Food-related price analysis |
+
+Processed datasets are stored under:
+
+```text
+data/processed/
+```
+
+Raw source files are intentionally excluded from the public GitHub repository.
+
+Detailed source, coverage, transformation, and usage information is documented in:
+
+```text
+data/metadata/data_sources.md
+```
+
+---
+
+# 🛠️ Data Sources
+
+The project uses official and publicly available economic data sources.
+
+Major sources include:
+
+- Ministry of Statistics and Programme Implementation (MoSPI)
+- e-Sankhyiki
+- Reserve Bank of India (RBI)
+- Office of Economic Adviser (WPI)
+- World Bank Commodity Markets
+- Federal Reserve Economic Data (FRED) for the USD/INR series
+
+The exact source and processing details for each dataset are documented in:
+
+```text
+data/metadata/data_sources.md
+```
+
+---
+
+# 🧹 Data Processing Pipeline
+
+The project processes each economic indicator separately before combining them into the final modelling dataset.
+
+```text
+Official / Public Economic Data
+             │
+             ▼
+       Data Collection
+             │
+             ▼
+      Cleaning & Validation
+             │
+             ▼
+       Monthly Alignment
+             │
+             ▼
+     Individual Master Data
+             │
+             ▼
+      Economic Master Data
+             │
+             ▼
+   Enriched Economic Master
+             │
+             ▼
+     Feature Engineering
+             │
+             ▼
+       Forecasting Model
+             │
+             ▼
+       Next-Month Forecast
+             │
+             ▼
+      Forecast Evaluation
+```
+
+The complete workflow can be executed using:
+
+```bash
+python run_pipeline.py
+```
+
+The pipeline updates the available data sources, rebuilds the economic datasets, evaluates previous forecasts, retrains the model, and generates the next-month forecast.
+
+---
+
+# 🧠 Feature Engineering
+
+The forecasting problem is formulated as a **one-step-ahead time-series prediction problem**.
+
+The target variable is:
+
+```text
+target_next_month_inflation
+```
+
+It represents the CPI inflation value in the following month.
+
+The final forecasting model uses four features:
+
+```text
+inflation
+inflation_lag_1
+inflation_lag_12
+wpi_inflation
+```
+
+### Feature descriptions
+
+| Feature | Description |
+|---|---|
+| `inflation` | Current CPI inflation |
+| `inflation_lag_1` | CPI inflation from the previous month |
+| `inflation_lag_12` | CPI inflation from the same month one year earlier |
+| `wpi_inflation` | Current WPI inflation |
+
+The lag features allow the model to capture **recent inflation momentum** and **year-over-year historical patterns**.
+
+Although repo rate, Brent crude oil, USD/INR, and Food & Beverages data are included in the broader economic intelligence system, they are currently used primarily for economic monitoring and shock detection rather than as direct inputs to the final four-feature forecasting model.
+
+---
+
+# 🤖 Models Evaluated
+
+Several approaches were evaluated during model development.
+
+### Machine Learning Models
+
+- Linear Regression
+- Ridge Regression
+- Random Forest
+- XGBoost
+
+### Statistical Time-Series Models
+
+- ARIMA
+- SARIMA
+
+### Baseline
+
+- Naive persistence forecast
+
+The naive baseline is important because inflation is a persistent time series. A forecasting model should therefore be evaluated against the simple assumption that the next month's inflation will remain close to the current value.
+
+---
+
+# 📈 Model Selection
+
+The final production model is:
+
+## Linear Regression
+
+using:
+
+```text
+inflation
+inflation_lag_1
+inflation_lag_12
+wpi_inflation
+```
+
+The final model was selected based primarily on **Mean Absolute Error (MAE)** during walk-forward validation, while the naive model is retained as a benchmark.
+
+The model is intentionally simple because the dataset contains a relatively small number of monthly observations. The project prioritizes:
+
+- Interpretability
+- Reproducibility
+- Stability
+- Simple monthly retraining
+- Transparent evaluation
+
+The project does **not** claim that Linear Regression universally outperforms all alternative models.
+
+---
+
+# 🧪 Model Validation
+
+Because this is a time-series problem, random train-test splitting was avoided.
+
+The project uses chronological evaluation and walk-forward validation.
+
+### 1. Chronological Validation
+
+Historical observations are separated chronologically rather than randomly.
+
+```text
+Past Data ─────────────────────► Future Data
+     Train                           Test
+```
+
+### 2. Walk-Forward Validation
+
+The model is repeatedly trained using information available up to a particular point and then used to forecast the next observation.
+
+```text
+Train
+  │
+  └──► Predict next month
+
+Train + New Observation
+  │
+  └──► Predict next month
+
+Train + More Observations
+  │
+  └──► Predict next month
+
+             ...
+```
+
+This better represents how the model operates in a real monthly forecasting environment.
+
+---
+
+# 📊 Final Model Performance
+
+During the completed walk-forward validation period, the final Linear Regression model achieved:
+
+| Metric | Result |
+|---|---:|
+| MAE | **0.6255** |
+| RMSE | **0.8706** |
+| R² | **0.7395** |
+
+### Interpretation
+
+The MAE of approximately **0.63 percentage points** means that, on average, the model's forecast differed from the actual inflation value by around 0.63 percentage points during the evaluated walk-forward period.
+
+The naive benchmark performed slightly better on RMSE and R² in the same evaluation.
+
+Therefore, the project does **not** claim that the machine learning model universally outperforms the baseline.
+
+The Linear Regression model was retained based on its MAE performance together with simplicity, interpretability, and suitability for the ongoing forecasting workflow.
+
+---
+
+# 🔮 Current Forecast
+
+The latest available CPI observation in the project is **August 2026**.
+
+The system generated the following next-month forecast:
+
+```text
+Data Through: August 2026
+Forecast Month: September 2026
+Predicted CPI Inflation: 4.87%
+Model: Linear Regression
+```
+
+The September 2026 value is a **model forecast**, not an observed official CPI inflation value.
+
+The forecast is generated using the latest available actual economic observations. Once September's official CPI data becomes available, the forecast can be evaluated against the actual value.
+
+### Previous completed forecast
+
+For August 2026:
+
+```text
+Forecast: 4.38%
+Actual:   4.82%
+Error:   -0.44 percentage points
+```
+
+The error convention used by the project is:
+
+```text
+error = predicted inflation - actual inflation
+```
+
+Therefore, a negative error indicates that the forecast was below the actual observed value.
+
+---
+
+# 🚨 Economic Shock Detection
+
+In addition to forecasting inflation, the project contains an economic monitoring component.
+
+The shock detection system looks for unusually large movements in:
+
+- CPI inflation
+- WPI inflation
+- Brent crude oil
+- USD/INR exchange rate
+
+Rolling statistics are used to calculate z-scores.
+
+A movement is flagged when:
+
+```text
+|z-score| ≥ 2
+```
+
+The system produces indicators such as:
+
+```text
+Inflation Shock
+WPI Shock
+Brent Oil Shock
+USD/INR Shock
+Overall Shock
+```
+
+### Important distinction
+
+The shock detector is an **early-warning monitoring tool**.
+
+It does not claim to predict unexpected economic shocks before they occur. Its purpose is to identify unusually large movements in selected economic indicators that may deserve further investigation.
+
+---
+
+# 🔄 Forecast History & Evaluation
+
+Every generated forecast is stored in:
+
+```text
+data/processed/forecast_history.csv
+```
+
+The history records information such as:
+
+- Forecast generation date
+- Data available through
+- Forecast month
+- Predicted inflation
+- Model used
+- Shock indicators
+- Actual inflation, when available
+- Forecast error
+- Absolute error
+- Percentage error
+- Evaluation status
+
+The workflow is:
+
+```text
+Generate Forecast
+       │
+       ▼
+Store Prediction
+       │
+       ▼
+Wait for Official CPI
+       │
+       ▼
+Actual Inflation Available
+       │
+       ▼
+Calculate Forecast Error
+       │
+       ▼
+Update Forecast History
+```
+
+This creates a persistent record that can be used to monitor forecasting performance over time.
+
+---
+
+# 🔁 Continuous Monthly Forecasting
+
+The project is designed to support repeated monthly execution.
+
+For each new month:
+
+```text
+New Official Data
+       │
+       ▼
+Update Datasets
+       │
+       ▼
+Validate Data
+       │
+       ▼
+Build Features
+       │
+       ▼
+Evaluate Previous Forecasts
+       │
+       ▼
+Retrain Model
+       │
+       ▼
+Generate Next-Month Forecast
+       │
+       ▼
+Run Shock Detection
+       │
+       ▼
+Store Forecast
+```
+
+The production pipeline is controlled by:
+
+```text
+run_pipeline.py
+```
+
+This means the project can continue producing new forecasts as additional monthly observations become available.
+
+---
+
+# 📊 Streamlit Dashboard
+
+The project includes an interactive **Streamlit dashboard** for monitoring the forecasting system.
+
+The dashboard provides:
+
+- Current CPI inflation
+- Next-month inflation forecast
+- Data-through date
+- Latest evaluated forecast error
+- CPI inflation trend
+- Forecast vs. actual values
+- WPI inflation
+- RBI repo rate
+- Brent crude oil price
+- USD/INR exchange rate
+- Economic indicator trends
+- Early warning shock signals
+- Model information
+- Training observation count and period
+
+The dashboard is implemented in:
+
+```text
+app.py
+```
+
+Run it locally with:
+
+```bash
+streamlit run app.py
+```
 
 ---
 
@@ -441,20 +534,22 @@ Inflation-Forecasting/
 │   ├── metadata/
 │   │   └── data_sources.md
 │   │
+│   ├── raw/
+│   │
 │   └── processed/
 │       ├── cpi_master.csv
-│       ├── cpi_wpi_master.csv
-│       ├── crude_oil_master.csv
 │       ├── economic_master.csv
 │       ├── economic_master_enriched.csv
-│       ├── exchange_rate_master.csv
 │       ├── final_economic_master.csv
-│       ├── food_beverages_2026.csv
 │       ├── food_beverages_master.csv
 │       ├── forecast_history.csv
-│       ├── modeling_dataset.csv
 │       ├── repo_rate_master.csv
-│       └── wpi_master.csv
+│       ├── wpi_master.csv
+│       ├── crude_oil_master.csv
+│       └── exchange_rate_master.csv
+│
+├── models/
+│   └── final_inflation_model.pkl
 │
 ├── notebooks/
 │   ├── 01_cpi_exploration.ipynb
@@ -463,16 +558,14 @@ Inflation-Forecasting/
 │
 ├── src/
 │   ├── data_collection/
-│   │   ├── build_cpi_dataset.py
-│   │   ├── build_crude_oil_dataset.py
+│   │   ├── download_cpi.py
+│   │   ├── download_repo_rate.py
+│   │   ├── download_wpi.py
+│   │   ├── download_crude_oil.py
+│   │   ├── download_exchange_rate.py
 │   │   ├── build_economic_dataset.py
 │   │   ├── build_enriched_economic_master.py
-│   │   ├── build_exchange_rate_dataset.py
-│   │   ├── build_food_beverages_2026.py
-│   │   ├── build_food_beverages_dataset.py
-│   │   ├── build_repo_dataset.py
-│   │   ├── build_wpi_dataset.py
-│   │   └── validation scripts
+│   │   └── merge_food_beverages.py
 │   │
 │   ├── features/
 │   │   └── build_features.py
@@ -481,20 +574,20 @@ Inflation-Forecasting/
 │   │   └── train_model.py
 │   │
 │   ├── forecasting/
-│   │   ├── predict_next_month.py
 │   │   ├── run_forecast.py
 │   │   └── evaluate_forecasts.py
 │   │
 │   └── monitoring/
 │       └── shock_detection.py
 │
-├── models/
-│
 ├── app.py
+├── run_pipeline.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
+
+Raw data and locally generated model files are excluded from version control according to `.gitignore`.
 
 ---
 
@@ -502,35 +595,35 @@ Inflation-Forecasting/
 
 ### Programming & Data
 
-* Python
-* Pandas
-* NumPy
+- Python
+- Pandas
+- NumPy
 
 ### Machine Learning
 
-* Scikit-learn
-* XGBoost
+- Scikit-learn
+- XGBoost
 
 ### Statistical Forecasting
 
-* Statsmodels
-* ARIMA
-* SARIMA
+- Statsmodels
+- ARIMA
+- SARIMA
 
 ### Visualization & Exploration
 
-* Matplotlib
-* Jupyter Notebook
+- Matplotlib
+- Jupyter Notebook
 
-### Application
+### Dashboard
 
-* Streamlit
+- Streamlit
 
 ### Development
 
-* Git
-* GitHub
-* VS Code
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -548,7 +641,19 @@ Move into the project directory:
 cd India-Inflation-Forecasting
 ```
 
-Install the required Python packages:
+Create and activate a virtual environment if desired:
+
+```bash
+python -m venv .venv
+```
+
+Windows PowerShell:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+Install the required packages:
 
 ```bash
 pip install -r requirements.txt
@@ -558,55 +663,82 @@ pip install -r requirements.txt
 
 # ▶️ Running the Project
 
-## Train the Final Model
+## Run the Complete Pipeline
+
+The recommended way to update the project and generate the latest forecast is:
 
 ```bash
-python -m src.models.train_model
+python run_pipeline.py
 ```
 
-This trains the final Linear Regression model and saves the model locally.
+The pipeline performs the following steps:
+
+1. Updates CPI data
+2. Updates RBI repo-rate data
+3. Updates WPI data
+4. Updates Brent crude oil data
+5. Updates USD/INR exchange-rate data
+6. Builds the economic master dataset
+7. Builds the enriched economic master dataset
+8. Merges Food & Beverages data
+9. Evaluates previously generated forecasts
+10. Retrains the final inflation model
+11. Generates the next-month forecast
 
 ---
 
-## Generate a Next-Month Forecast
+## Train the Model Separately
 
 ```bash
-python -m src.forecasting.predict_next_month
+python src/models/train_model.py
 ```
 
-The script identifies the latest valid economic observation and generates a forecast for the following month.
+This rebuilds the training dataset, trains the Linear Regression model, and saves it locally under:
+
+```text
+models/final_inflation_model.pkl
+```
 
 ---
 
-## Run the Complete Forecasting Pipeline
+## Generate a Forecast Separately
 
 ```bash
-python -m src.forecasting.run_forecast
+python src/forecasting/run_forecast.py
 ```
 
-This pipeline:
+This:
 
 1. Loads the latest economic dataset
 2. Builds forecasting features
-3. Generates the next-month prediction
-4. Runs economic shock detection
-5. Stores the forecast in forecast history
+3. Loads the trained model
+4. Generates the next-month forecast
+5. Runs economic shock detection
+6. Stores the forecast in `forecast_history.csv`
 
 ---
 
 ## Evaluate Previous Forecasts
 
 ```bash
-python -m src.forecasting.evaluate_forecasts
+python src/forecasting/evaluate_forecasts.py
 ```
 
-Once actual inflation values become available, this script can compare previous predictions with the observed values and calculate forecast errors.
+When official actual inflation becomes available, this script matches it with the corresponding stored forecast and calculates forecast errors.
+
+---
+
+## Launch the Dashboard
+
+```bash
+streamlit run app.py
+```
 
 ---
 
 # 📓 Notebooks
 
-The notebooks document the development process.
+The notebooks document the development and analysis process.
 
 ### `01_cpi_exploration.ipynb`
 
@@ -618,118 +750,112 @@ Develops time-series features and prepares the modelling dataset.
 
 ### `03_final_inflation_model.ipynb`
 
-Contains the final model development and evaluation workflow.
+Documents the final model development and evaluation workflow.
 
 The production scripts under `src/` are used for the reproducible forecasting pipeline.
 
 ---
 
-# 📁 Data Handling
+# 📦 Data Handling
 
 Raw datasets are not included in the public repository.
 
-The repository contains processed datasets required for analysis and modelling.
+The repository contains processed datasets used for analysis and modelling.
 
-Raw files are excluded through `.gitignore`:
+Raw files are excluded through:
 
 ```text
 data/raw/
 ```
 
-This keeps the repository lightweight while preserving the processed analytical data and code used to build the forecasting system.
+and locally generated model files are excluded through:
+
+```text
+models/*.pkl
+```
+
+This keeps the repository lightweight while preserving the processed analytical data and reproducible code.
 
 ---
 
 # ⚠️ Forecasting Limitations
 
-This project is an experimental forecasting and analytical system and should not be interpreted as an official inflation forecast.
+This project is an experimental forecasting and analytical system. It should **not** be interpreted as an official inflation forecast from the Government of India or the Reserve Bank of India.
 
 Important limitations include:
 
-* Monthly observations provide a relatively small modelling sample.
-* Inflation can be affected by sudden events that historical data cannot anticipate.
-* Economic relationships can change over time.
-* Model performance can vary across different economic regimes.
-* Some economic indicators may be more useful for monitoring than for direct prediction.
-* Forecast accuracy should be evaluated continuously as new observations become available.
+- Monthly observations provide a relatively small modelling sample.
+- Inflation can be affected by sudden events that historical data cannot anticipate.
+- Economic relationships can change over time.
+- Model performance can vary across different economic regimes.
+- Some economic indicators may be more useful for monitoring than for direct prediction.
+- Forecast accuracy should be evaluated continuously as new observations become available.
+- Data availability and publication timing can differ across economic indicators.
 
 The project therefore treats forecasting as an **ongoing evaluation problem**, rather than assuming that one model will remain optimal forever.
 
 ---
 
-# 🚧 Future Improvements
+# 🚀 Future Improvements
 
-The project is currently under development.
+The core forecasting pipeline and dashboard are now implemented. Possible future improvements include:
 
-Planned improvements include:
+### Model Development
 
-### Automated Data Updates
+- Test additional lag and seasonal features
+- Explore richer macroeconomic feature sets
+- Re-evaluate alternative models as more observations become available
+- Compare model performance over different economic regimes
 
-Automatically retrieve newly released official economic data.
+### Forecast Monitoring
 
-### Automated Forecasting
+- Expand the forecast history as more months are evaluated
+- Add rolling performance metrics
+- Monitor forecast bias and error stability
+- Track model performance against the naive benchmark
 
-Run the forecasting pipeline whenever new monthly data becomes available.
+### Deployment & Automation
 
-### Forecast Dashboard
+- Deploy the Streamlit dashboard publicly
+- Schedule the forecasting pipeline for monthly execution
+- Add automated notifications when new forecasts are generated
+- Improve handling of source-data release timing
 
-Develop an interactive Streamlit dashboard displaying:
+### Economic Intelligence
 
-* Latest CPI inflation
-* Forecast inflation
-* Historical inflation
-* WPI inflation
-* Repo rate
-* Brent crude oil
-* USD/INR
-* Forecast errors
-* Economic shock indicators
-
-### Forecast Performance Tracking
-
-Track:
-
-* MAE
-* RMSE
-* Forecast bias
-* Rolling forecast performance
-* Model vs. naive benchmark
-
-### Model Monitoring
-
-Monitor whether model performance deteriorates over time and evaluate whether retraining or model changes are necessary.
-
-### Economic Scenario Analysis
-
-Explore how changes in major economic indicators could influence the inflation outlook.
+- Add scenario analysis
+- Study relationships between inflation and macroeconomic indicators
+- Expand economic shock diagnostics
+- Add explainability for model forecasts
 
 ---
 
 # 📌 Project Status
 
-**🚧 In Development**
+## ✅ Core Project Completed
 
-Current components:
+| Component | Status |
+|---|---|
+| CPI data pipeline | ✅ |
+| WPI data pipeline | ✅ |
+| RBI repo-rate pipeline | ✅ |
+| Brent crude-oil pipeline | ✅ |
+| USD/INR exchange-rate pipeline | ✅ |
+| Food & Beverages data processing | ✅ |
+| Economic master dataset | ✅ |
+| Feature engineering | ✅ |
+| Model comparison | ✅ |
+| Walk-forward validation | ✅ |
+| Final forecasting model | ✅ |
+| Next-month forecasting | ✅ |
+| Economic shock detection | ✅ |
+| Forecast history | ✅ |
+| Forecast evaluation | ✅ |
+| Automated end-to-end pipeline | ✅ |
+| Streamlit dashboard | ✅ |
+| GitHub repository | ✅ |
 
-* [x] CPI data pipeline
-* [x] WPI data pipeline
-* [x] Repo rate data pipeline
-* [x] Brent crude oil data pipeline
-* [x] USD/INR exchange-rate pipeline
-* [x] Food & Beverages data processing
-* [x] Feature engineering
-* [x] Model comparison
-* [x] Walk-forward validation
-* [x] Final forecasting model
-* [x] Next-month forecasting script
-* [x] Economic shock detection
-* [x] Forecast history
-* [x] Forecast evaluation framework
-* [x] GitHub repository
-* [ ] Automated monthly data updates
-* [ ] Automated model retraining
-* [ ] Streamlit forecasting dashboard
-* [ ] Long-term forecast performance monitoring
+The project is considered complete as a **working forecasting and economic-intelligence prototype**, while future improvements can continue independently.
 
 ---
 
@@ -737,34 +863,26 @@ Current components:
 
 ## Kashmira Shelar
 
-Integrated B.Sc.-M.Sc. in Data Science
+Integrated B.Sc.-M.Sc. in Data Science  
 MGM University
 
-GitHub:
-[https://github.com/Kashmira-s001](https://github.com/Kashmira-s001)
+GitHub:  
+https://github.com/Kashmira-s001
 
 ---
 
-# ⭐ Why This Project?
+## ⭐ Project Summary
 
-This project was built to explore the intersection of:
+**India Inflation Forecasting & Economic Intelligence System** combines economic data engineering, time-series feature engineering, machine learning, model validation, forecasting, shock detection, and interactive visualization into a single reproducible workflow.
 
-**Data Science + Time-Series Forecasting + Economics**
-
-Rather than treating inflation forecasting as only a machine-learning problem, the project focuses on building an end-to-end analytical system that combines:
+The central idea is simple:
 
 ```text
-Official Economic Data
-        +
-Data Engineering
-        +
-Time-Series Analysis
-        +
-Machine Learning
-        +
-Economic Monitoring
-        +
-Continuous Evaluation
+Collect → Clean → Combine → Engineer → Validate
+                    ↓
+                 Forecast
+                    ↓
+          Monitor → Evaluate → Update
 ```
 
-The ultimate goal is to develop a forecasting workflow that becomes more useful over time as new economic observations and forecast results accumulate.
+The system is designed to keep learning from newly available monthly economic observations rather than treating inflation forecasting as a one-time prediction task.
