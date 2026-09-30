@@ -6,6 +6,14 @@ The project is designed as an **ongoing monthly forecasting pipeline**, not a on
 
 ---
 
+## 🌐 Live Dashboard
+
+👉 **[Open the Live Streamlit Dashboard](https://india-inflation-forecasting.streamlit.app/)**
+
+The dashboard provides the latest CPI inflation, next-month forecast, economic indicators, forecast evaluation, and early-warning signals.
+
+---
+
 ## 📌 Overview
 
 Inflation is influenced by domestic price movements as well as broader economic conditions such as wholesale prices, monetary policy, crude oil prices, and exchange rates.
