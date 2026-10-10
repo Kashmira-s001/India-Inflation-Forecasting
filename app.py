@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import subprocess
+import sys
 from pathlib import Path
 
 
@@ -22,6 +24,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 ECONOMIC_DATA = PROJECT_ROOT / "data" / "processed" / "final_economic_master.csv"
 FORECAST_DATA = PROJECT_ROOT / "data" / "processed" / "forecast_history.csv"
 
+PIPELINE_SCRIPT = PROJECT_ROOT / "run_pipeline.py"
 
 # --------------------------------------------------
 # Load data
@@ -125,6 +128,56 @@ data_through = latest_actual["date"]
 # --------------------------------------------------
 # Header
 # --------------------------------------------------
+
+# --------------------------------------------------
+# Refresh Data and Forecast
+# --------------------------------------------------
+
+if st.session_state.pop("refresh_success", False):
+    st.success("Datasets and forecast refreshed successfully!")
+
+# Place the refresh button at the top-right
+header_space, refresh_col = st.columns([8, 2])
+
+with refresh_col:
+    if st.button(
+        "🔄 Refresh Data & Forecast",
+        use_container_width=True,
+        key="refresh_pipeline_button"
+    ):
+        if not PIPELINE_SCRIPT.is_file():
+            st.error(f"Pipeline not found: {PIPELINE_SCRIPT}")
+        else:
+            try:
+                with st.spinner(
+                    "Updating datasets and generating forecast..."
+                ):
+                    subprocess.run(
+                        [sys.executable, str(PIPELINE_SCRIPT)],
+                        cwd=str(PROJECT_ROOT),
+                        check=True,
+                        timeout=900
+                    )
+
+                st.cache_data.clear()
+                st.session_state["refresh_success"] = True
+                st.rerun()
+
+            except subprocess.TimeoutExpired:
+                st.error(
+                    "Pipeline timed out after 15 minutes. "
+                    "Check the terminal for details."
+                )
+
+            except subprocess.CalledProcessError as e:
+                st.error(
+                    f"Pipeline failed with exit code {e.returncode}. "
+                    "Check the terminal for the failing step."
+                )
+
+            except Exception as e:
+                st.error(f"Refresh failed: {e}")
+
 
 st.markdown(
     """
