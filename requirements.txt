@@ -3,3 +3,4 @@ pandas==3.0.5
 beautifulsoup4>=4.12,<5
 openpyxl
 joblib
+scikit-learn
